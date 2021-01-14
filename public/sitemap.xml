@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://subcast.space/posts/my-first-post/</loc>
     <lastmod>2021-01-14T18:59:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://subcast.space/posts/</loc>
     <lastmod>2021-01-14T18:59:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://subcast.space/</loc>
     <lastmod>2021-01-14T18:59:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/authors/subcast/</loc>
+    <loc>https://subcast.space/authors/subcast/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://subcast.space/authors/</loc>
   </url>
   
 </urlset>
