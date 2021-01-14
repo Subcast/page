@@ -7,3 +7,5 @@ title = "Subcast"
 theme = "hugo-theme-novela"
 
 paginate = 6
+[taxonomies]
+author = "authors"
