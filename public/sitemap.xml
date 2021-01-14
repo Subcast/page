@@ -18,11 +18,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/authors/subcast/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://example.org/authors/</loc>
   </url>
   
 </urlset>
