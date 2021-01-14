@@ -1,0 +1,21 @@
+---
+label: Basic
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text
+pages:
+- content/posts/hmm.md
